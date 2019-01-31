@@ -1,0 +1,12 @@
+#!/usr/bin/perl
+
+_((_).(_).(_));     while(<>){chomp;    s}^\s*(.+)}$1}g;    _(_),
+,next     if!(~     ~$_);               split      ?\s+?    ;;$_=     
+shift     @_;;;     /cd/g               ?(42,      chdir    @_[(_
+)]||_exit_("$_"     .qq?\x3A\x20@_?,    $!)):?exit??exit    @_[0+
+sqrt(               13+(2               *8-sqrt             (169)
+))-!!               sqrt(               256)]  :fork?       wait:
+$wait               ?(_):(exec $_,@_    or(1)   ,_exit_(    $_,$!),{_},exit
+
+);sub _{(_)?print qq/\x3E\x20/:exit}sub _exit_ {s__exit__exit_ or exit;print 
+qq/\x70\x6c\x73\x68\x3A\x20$_[0]\x3A\x20$_[1]\n/; }_(____)unless(_)};reverse
